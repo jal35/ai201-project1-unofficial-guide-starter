@@ -1,0 +1,83 @@
+planetterp_cmsc132_sadeghian	
+
+Course: CMSC132 - Object-Oriented Programming II
+Professor: Pedram Sadeghian
+
+Review 1:
+pedram, the goat that you are...
+
+to start off, I want to clarify a couple of things:
+1. this was the summer version, so 15 weeks of content condensed to 10 weeks
+2. all lectures were recorded bc of this, but there were virtual labs and q&a sessions
+3. I got a C in 131 :( so my grade in this class is most definitely a step up :)
+4. I have a bio background and I'm not really a programming god like most ppl in this class
+
+coming from someone who took yoon for CMSC131, pedram was a breath of fresh air. people say that pedram's voice is monotonous, but he legit sounds like a cartoon character and it makes listening to him so fun. try it, close your eyes and listen to his lectures and let your mind wander.
+
+overall thoughts:
+
+something that really set him apart for me is how well he explains things. I never considered myself to be such a visual learner until I took this class. I appreciate that he takes the time to draw both the stack and the heap when explaining concepts such as recursion and the initialization of data structures. I found myself also drawing things out when I wanted to figure out the logic for my projects. he is really great at breaking things down and his slidesets are always very thorough and to the point. I also really liked that he included applications to the real world of what we are learning because it just makes what you're learning a lot cooler yk.
+
+projects:
+
+the projects that he assigned were somewhat challenging but not to the point where they were impossible. i'd recommend that you just sit with a problem for a while because the answer will come to you eventually if you give yourself enough time. I'm not gonna lie, I lowkey enjoyed them. the projects are pretty much free 100s as long as you submit on time and pass all tests. the content from the projects will basically be most related to what he will test you on the exams, so it's important that you don't chatgpt your way through them.
+
+quizzes:
+
+idk if this is the case for fall & spring semesters, but our quizzes were not weighted very much and were open note save for the debug quiz (lowkey kinda a joke but appreciated). make sure you do well on them because they're a way to get some easy points.
+
+exams:
+
+something that pedram does which is such a lifesaver is that he gives an outline of the exam two days prior to it. it contains the methods you will need to know for the exams, what the exam will and will not cover, and how many questions/what type of questions will be present. HYPERFOCUS ON THIS. you don't want to end up spending all your time studying something that won't even be covered. the previous year exams that he gives are good practice, but don't rely entirely on them. simply do the problems related to what the exams will test you on. the exams themselves were pretty fair.
+
+since this was a summer class, we had 1 hour and 20 min long exams for the first two exams and then 2 hours for the final. however, our exams were longer since we had more time. for the first time in a cs class ever, I was able to finish an exam in the allotted time for all 3 exams which was a win. I think maybe pedram has changed, but the exams seemed reasonable to complete in the time that he provided. I gotta say that I am not the fastest in terms of algorithmic thinking, but I still felt that I had enough time to complete the coding questions on time.
+
+exam structure was generally multiple choice & short answer that tested you on theory, sorting algs (if applicable), and other coding-adjacent concepts like logs and whatnot. the coding questions never require more than 10-15 lines of code to properly fulfill all the requirements for the method. some examples of code-writing questions are completing methods for a class or using data structures to perform certain tasks. all were pretty doable and I'm glad that he tests us on thinking algorithmically bc that's a skill you need as a computer scientist.
+
+tips & tricks:
+- start projects early, but you alr knew that (genuinely it's the best way to actually master concepts from lecture)
+- also figure out the logic for your projects before your fingers touch the keyboard (will save you lots of strife)
+- listen to lectures on 2x speed
+- go over content from exam guidelines religiously
+- if you lowkey didn't understand anything fom 131 make sure you fully understand the content (I used Alex Lee/Bro Code which I found pretty helpful)
+- this might be a me thing but don't overtake notes, simply go back to the slides or rewatch lectures as necessary (I found that taking excessive notes were kind of a waste of time)
+- GO TO DISCUSSION or at least catch up on them immediately if you can't make it since they are essentially mini lectures that cover high-yield content that WILL be tested on exams (ex: sorting algs were taught during discussion which showed up in pretty much every exam)
+
+shout out to the TAs! angie, ryan, and brian have saved my life on more than one occassion!
+
+this was a pretty memorable class and it's safe to say I feel more confident to take on cs now 
+
+Review 2:
+Practice exams are completely useless, same as the lecture.
+Homework projects will not help you anything on the actual exam.
+Quiz is hard as possible, I don't know why.
+Leet code and any outside resources may help you survive from the hell on earth he created.
+Take Elias or Nora.
+Curves are +1 point on your final grade, haha.
+
+Review 3:
+Pros:
+
+Records lectures (each and every lecture and lab/disscussion was recorded and posted on time with clear audio and no issues!)
+
+Is self aware enough to adjust difficulty. (First 2 exams had low averages - like 60s - so he made the 3rd exam easier and gave open note quizzes that we did outside of class. I believe he also towards the end made projects weigh more which was appreciated.
+
+Gives 2 minute breaks in the middle of lectures.
+
+Is active on piazza and gives clarifications
+
+Explains concepts mostly clearly and draws things out which is helpful.
+
+Gives exams details on piazza as hints which do help on exams.
+
+Curves? This is kind of a pro and a con because he doesn’t curve anything (not even exams) and instead moves the grade cutoffs at the end of the semester. This is a good way of doing it but unfortunately he only moved them by 1 point so while many were grateful some were a bit frustrated as the exam averages were pretty low this semester.
+
+Cons:
+
+Hard exams due to lack of practice material (old exams are useless since he changed the curriculum). Also the instructions can at times be confusing and he limits what you can use (like what data structures and loops etc) which doesn’t work well with the instructions. I do think he did a better job with this on the final but for the first 3 exams it was an issue.
+
+Discussions/labs are basically mini lectures instead of actual practice. The topics form lab do show up on exams but usually only in short answer.
+
+His voice is slightly monotone which can be hard for some people.
+
+TLDR: He’s a decent prof and if you put in the effort you won’t fail but taking Elias or maybe Nora might be better.

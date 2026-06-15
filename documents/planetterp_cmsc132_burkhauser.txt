@@ -1,0 +1,19 @@
+planetterp_cmsc132_burkhauser
+
+Course: CMSC132 - Object-Oriented Programming II
+Professor: Nora Burkhauser
+
+Review 1:
+switched from computer engineering to electrical engineering because of her. genuinely, she cannot teach; she just reads off the slides.
+
+Review 2:
+Really bad, would not recommend you take her as your professor. Her lectures don't teach you anything at all, she will barley glance over topics and put them on the exam. 100% of the material will be self taught, and she often makes mistakes explaining things in class. The projects are not hard, however the exams require you to thoroughly learn the material on your own.
+
+Review 3:
+3.5 stars, genuinely she isn't as bad as people say.
+
+Honestly, I feel her reviews are a little too harsh. Her slides are pretty basic, but (most) the material is very similar to AP CSA, where there is a LOT of review material online on. I think Nora is incredibly nice, and her TAs were helpful in holding review sessions, but I do agree that she is not the best person to explain every concept in a way that sticks and is thorough. I think navigating Nora's 131 is knowing your resources and practicing, which seems like a lot but once you get a routine it truly isn't hard, I promise. I did the projects early on and diligently, watched YT videos for concepts that were difficult, used ChatGPT to generate quick intuitive notes to read and some practice questions. Note: CHATGPT IS NOT FOR PROJECTS, THAT WOULD ONLY BE CHEATING YOURSELF, lots of projects had high averages and the exams... not so much, please use those projects to your advantage and study productively so you aren't cramming and barely practicing. She did not curve the exams but they were pretty similar to the practice test/question bank she gave out. Exam 2 was a little more challenging in that sense but if you understood the lecture, wasn't too crazy in difficulty and you could piece the difficult questions together. The final had a couple challenging questions but nothing too wild. What to really emphasis in your study is PRACTICE, that's the only way to learn how to intuitively code in this course and beyond. Lastly, her lectures. Mixed feelings about this. Her lectures were really boring and I could almost swear half the class was doing something else. But if you needed to revisit, she had them recorded. I honestly felt, even though I didn't pay much attention, the general idea sank in and then I self studied later. Looking back, I wish I paid attention so I could save some time, haha, but self studying using the slides and online resources got the job done. That being said, I do have solidly decent prior Java experience so it wasn't all that foreign to me. If you have never coded before, this could be a steep learning curve, but in that case just power through the boring 50 minute lecture, genuinely try your best to understand+practice, and you should be alright, believe in yourself :)
+
+TLDR: If you end up with Nora, it's not the worst. Make a diligent self-study schedule, stick to it, and practice using her material. utilize all possible resources. you will achieve your goals.
+
+ALL THE BEST
